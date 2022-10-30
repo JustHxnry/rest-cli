@@ -10,5 +10,5 @@ REST Client in CLI
 
 ## Install as node package from Github
 • Install using `git clone https://github.com/JustHxnry/rest-cli.git` and then `cd rest-cli`
-• Run `npm install` and `npm link`
+• Run `npm install . -g` and `npm link`
 • Run `npx rest` anywhere using terminal or cmd
